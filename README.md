@@ -4,3 +4,8 @@
 - Find deployment on Github pages [_here_](https://donmarvex.github.io/youtube-clone/) 
 
 - Also on Netlify: [_Youtube Clone_](https://marvex-youtube-clone.netlify.app/)
+
+
+### Future Updates:
+- Backend with Django
+- Other exciting features. 
